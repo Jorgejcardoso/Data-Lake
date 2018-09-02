@@ -1,0 +1,36 @@
+
+
+Site com  informações de Data Lake
+
+https://www.oreilly.com/
+
+O do Ben Sharma é interessante. Ele fala de camadas  lógicas do Data Lake
+
+Data Lake Architecture: Designing the Data Lake and Avoiding the Garbage Dump https://g.co/kgs/u6ueB8
+
+
+
+https://www.amazon.com.br/Data-Lake-Enterprises-Tomcy-John/dp/1787281345/ref=pd_aw_sim_14_1/131-0518800-0157102?_encoding=UTF8&psc=1&refRID=2AQ8Y7NCV8AG1SWWR0RZ
+
+
+
+https://www.amazon.com.br/Data-Lake-Development-Big-English-ebook/dp/B015Q7I3MI?keywords=data+lake&qid=1535891117&sr=8-10&ref=mp_s_a_1_10
+
+
+
+Curso de Data Lake na DSA
+https://www.datascienceacademy.com.br/course?courseid=data-lake-design-projeto-integracao
+
+
+
+
+https://epocanegocios.globo.com/Tecnologia/noticia/2018/05/escolas-na-china-usam-reconhecimento-facial-para-monitorar-atencao-dos-alunos-na-aula.html?utm_source=facebook
+
+
+
+Policiais da Chinaestão usando óculos especiais com câmeras embutidas capazes de reconhecer pessoas na rua. Alguém já postou isso?
+
+https://www.bbc.com/portuguese/amp/geral-43011505
+
+
+
